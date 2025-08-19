@@ -88,16 +88,6 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
   <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" height="30" alt="crossplane logo" />
 </div>
 
-
-
-## 🏆 Certificaciones
-
-<!-- Reemplaza estos ejemplos con tus certificaciones reales -->
-
-- AWS Solutions Architect - Professional
-- AWS DevOps Engineer - Professional
-- Kubernetes Administrator (CKA)
-
 ## 📊 Estadísticas GitHub
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobogithub&show_icons=true&theme=radical)
