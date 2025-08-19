@@ -84,7 +84,11 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" height="30" alt="crossplane logo" />
 </div>
+
+
 
 ## 🏆 Certificaciones
 
