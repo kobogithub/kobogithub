@@ -112,4 +112,4 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 
 - AI/ML en entornos cloud
 - FinOps y optimización de costos en AWS
-- GitOps con ArgoCD y Flux
+- Platform Engineering Crossplane
