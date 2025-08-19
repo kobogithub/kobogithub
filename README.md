@@ -2,7 +2,6 @@
 
 <div align="center">
   <h2>Hola 👋! Soy Kevin, Arquitecto de Soluciones AWS & Data Engineering</h2>
-  <img align="right" height="150" src="https://i.gifer.com/2Mgv.gif" />
 </div>
 
 ## Sobre mí
