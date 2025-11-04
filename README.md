@@ -138,3 +138,7 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 - AI/ML en entornos cloud
 - FinOps y optimización de costos en AWS
 - Arquitecturas serverless con edge computing
+
+---
+
+🌐 [kobouharriet.me](https://kobouharriet.me)
