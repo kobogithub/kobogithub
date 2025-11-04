@@ -14,6 +14,9 @@ Arquitecto de Soluciones AWS y Líder Técnico en Data Engineering con más de 5
   <a href="https://www.credly.com/badges/9d6d2abb-b604-44af-b658-cbbe24de0d28" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
   </a>
+  <a href="./kevin-barroso-disertante-utn-ai.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄-Ver_Certificado_PDF-blue?style=for-the-badge" alt="Certificado UTN AI Agro" />
+  </a>
 </div>
 
 ## 🚀 Proyectos Destacados
