@@ -8,17 +8,35 @@
 
 Arquitecto de Soluciones AWS y Líder Técnico en Data Engineering con más de 5 años de experiencia diseñando e implementando arquitecturas cloud empresariales. Especializado en soluciones de datos, microservicios en Kubernetes y observabilidad avanzada. Apasionado por optimizar infraestructuras cloud, automatizar procesos y crear arquitecturas resilientes que resuelvan desafíos técnicos complejos. Instructor de Python para análisis de datos e IA en UTN, comprometido con compartir conocimientos y mejores prácticas en la comunidad tecnológica.
 
+## 🎓 Certificaciones
+
+<div align="left">
+  <a href="https://www.credly.com/badges/9d6d2abb-b604-44af-b658-cbbe24de0d28" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect" />
+  </a>
+</div>
+
 ## 🚀 Proyectos Destacados
 
-### Data Lake AWS
+### Platform Engineering con Crossplane
 
-Diseño e implementación de arquitectura data lake que automatiza la ingesta desde múltiples fuentes, optimiza almacenamiento con particionamiento Parquet y establece gobierno de datos con Lake Formation.
-🛠️ **Tecnologías**: AWS S3, DMS, Glue, EMR, Lake Formation, Athena
+Implementación de Infrastructure as Code declarativa usando Crossplane para gestionar infraestructura del Data Lake AWS. Desarrollo de Compositions, XRDs y Claims que permiten a los equipos provisionar recursos cloud de forma self-service y estandarizada.
+🛠️ **Tecnologías**: Crossplane, Kubernetes, AWS, Compositions, XRD, GitOps
+
+### Data Lake AWS & On-Premise
+
+Diseño e implementación de arquitectura data lake híbrida que automatiza la ingesta desde múltiples fuentes, optimiza almacenamiento con particionamiento Parquet y establece gobierno de datos. Incluye implementación on-premise con Minio para almacenamiento S3-compatible y DuckDB para análisis embebido de alto rendimiento.
+🛠️ **Tecnologías**: AWS S3, DMS, Glue, EMR, Lake Formation, Athena, Minio, DuckDB
 
 ### Plataforma SaaS en EKS
 
-Arquitectura completa de microservicios en EKS con integración de servicios low-code (Lowcoder), automatización de flujos (N8N) y MongoDB como base de datos NoSQL de alto rendimiento.
-🛠️ **Tecnologías**: AWS EKS, Kubernetes, Helm, Docker, MongoDB, CI/CD
+Arquitectura completa de microservicios en EKS con integración de servicios low-code (Lowcoder), automatización de flujos (N8N) y MongoDB como base de datos NoSQL. Implementación de Cert-Manager para gestión automática de certificados SSL/TLS con Let's Encrypt y AWS Certificate Manager.
+🛠️ **Tecnologías**: AWS EKS, Kubernetes, Helm, Docker, MongoDB, Cert-Manager, Let's Encrypt
+
+### App de Gestión de Visitas
+
+Aplicación fullstack moderna para coordinación y gestión de visitas, desarrollada con framework Astro para rendimiento óptimo y Supabase como backend-as-a-service, proporcionando autenticación, base de datos PostgreSQL y APIs en tiempo real.
+🛠️ **Tecnologías**: Astro, Supabase, PostgreSQL, TypeScript
 
 ### Observabilidad End-to-End
 
@@ -31,19 +49,26 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane-FF6C37?style=flat&logo=crossplane&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cert-Manager](https://img.shields.io/badge/Cert--Manager-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### Datos & Analytics
 
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Minio](https://img.shields.io/badge/Minio-C72E49?style=flat&logo=minio&logoColor=white)
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ### Programación & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
@@ -112,4 +137,4 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 
 - AI/ML en entornos cloud
 - FinOps y optimización de costos en AWS
-- Platform Engineering Crossplane
+- Arquitecturas serverless con edge computing
