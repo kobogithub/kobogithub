@@ -1,12 +1,12 @@
 # Kevin Barroso Ouharriet
 
 <div align="center">
-  <h2>Hola 👋! Soy Kevin, Arquitecto de Soluciones AWS & Data Engineering</h2>
+  <h2>Hola 👋! Soy Kevin, Arquitecto de Soluciones / AI Engineer / SRE Senior</h2>
 </div>
 
 ## Sobre mí
 
-Arquitecto de Soluciones AWS y Líder Técnico en Data Engineering con más de 5 años de experiencia diseñando e implementando arquitecturas cloud empresariales. Especializado en soluciones de datos, microservicios en Kubernetes y observabilidad avanzada. Apasionado por optimizar infraestructuras cloud, automatizar procesos y crear arquitecturas resilientes que resuelvan desafíos técnicos complejos. Instructor de Python para análisis de datos e IA en UTN, comprometido con compartir conocimientos y mejores prácticas en la comunidad tecnológica.
+Arquitecto de Soluciones AWS, AI Engineer y SRE Senior con más de 5 años de experiencia diseñando e implementando arquitecturas cloud empresariales y sistemas de inteligencia artificial. Especializado en soluciones basadas en LLMs (OpenAI, Claude), sistemas multi-agente con MCP (Model Context Protocol), RAG, orquestación de workflows de IA con LangChain/LangGraph, y microservicios en Kubernetes. Apasionado por crear infraestructuras cloud resilientes, automatizar procesos con IA y desarrollar agentes inteligentes que resuelvan desafíos técnicos complejos. Docente de Ingeniería de IA y Sistemas Inteligentes en UTN Rosario.
 
 ## 🎓 Certificaciones
 
@@ -17,6 +17,26 @@ Arquitecto de Soluciones AWS y Líder Técnico en Data Engineering con más de 5
 </div>
 
 ## 🚀 Proyectos Destacados
+
+### Agentes de IA para Procesamiento Inteligente de Documentos
+
+Sistema de agentes de IA que procesa comprobantes de gastos y mensajes de WhatsApp, extrayendo datos estructurados mediante OCR y análisis semántico. Implementa workflows con LangGraph, prompt engineering con templates versionados y métricas de tokens.
+🛠️ **Tecnologías**: OpenAI GPT-4o, LangChain, LangGraph, AWS Textract, pytesseract, FastAPI, RabbitMQ
+
+### Extractor IA de Condiciones de Granos
+
+Procesador inteligente de mensajes de WhatsApp para mesas de granos que extrae condiciones comerciales (precio, calidad, plazos) usando NLP y visión por computadora. Procesa texto e imágenes con OCR en paralelo.
+🛠️ **Tecnologías**: OpenAI GPT-4.1-mini, LangChain, LangGraph, Pillow, FastAPI, Pydantic
+
+### Framework Multi-Agente para Desarrollo Asistido por IA
+
+Framework de desarrollo con 8+ agentes especializados (Planner, Backend, Frontend, DevOps, Security, QA) coordinados mediante Model Context Protocol (MCP). Incluye sistema de skills reutilizables y gestión de modelos Claude.
+🛠️ **Tecnologías**: MCP, Claude Opus/Sonnet/Haiku, Playwright, GitHub API, Supabase
+
+### Knowledge - CLI para Desarrollo con IA
+
+Herramienta CLI open-source construida en Rust para desarrollo asistido por IA. Gestiona agentes especializados, skills instalables y servidores MCP con un workflow de 5 fases (Exploración → Verificación).
+🛠️ **Tecnologías**: Rust, MCP, Multi-Agent Workflows, clap, reqwest, serde
 
 ### Platform Engineering con Crossplane
 
@@ -45,9 +65,21 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 
 ## 💻 Stack Tecnológico
 
+### IA & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 ### Cloud & Infraestructura
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Crossplane](https://img.shields.io/badge/Crossplane-FF6C37?style=flat&logo=crossplane&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
@@ -66,6 +98,7 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 ### Programación & DevOps
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -78,7 +111,17 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="gcp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd logo" />
   <img width="12" />
@@ -90,25 +133,17 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" height="30" alt="crossplane logo" />
 </div>
@@ -133,11 +168,12 @@ Solución integral de observabilidad para entornos cloud y Kubernetes implementa
   </a>
 </div>
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Actualmente explorando
 
-- AI/ML en entornos cloud
-- FinOps y optimización de costos en AWS
-- Arquitecturas serverless con edge computing
+- Agentic AI avanzada y orquestación de modelos con MCP
+- RAG (Retrieval-Augmented Generation) y Vector Databases
+- Rust para herramientas de desarrollo CLI
+- FinOps y optimización de costos en multi-cloud
 
 ---
 
