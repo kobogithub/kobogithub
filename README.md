@@ -1,8 +1,14 @@
 # Kevin Barroso Ouharriet
 
 <div align="center">
-  <h2>Hola 👋! Soy Kevin, Arquitecto de Soluciones / AI Engineer / SRE Senior</h2>
+  <h2>Cloud Architect | AI Agent Workflow Architect | DevEx Advocate</h2>
+  <p><i>Construyendo la infraestructura que permite a la IA pensar y a los desarrolladores volar.</i></p>
 </div>
+
+## 🎯 El Core de mi Trabajo
+- **AI Orchestration:** Especialista en workflows agenticos con LangGraph y protocolos MCP.
+- **Cloud Foundations:** Arquitecturas resilientes en AWS con enfoque en escalabilidad y costos (FinOps).
+- **Platform Engineering:** Creando herramientas de autoservicio (Crossplane) y CLIs de alto rendimiento (Rust).
 
 ## Sobre mí
 
